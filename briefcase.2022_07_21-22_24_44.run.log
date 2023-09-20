@@ -1,0 +1,327 @@
+Date/Time:       2022-07-21 22:24:44 
+Command line:    /home/mdank/miniconda3/envs/compena/bin/briefcase run
+
+OS Release:      Linux 5.4.0-122-generic
+OS Version:      #138-Ubuntu SMP Wed Jun 22 15:00:31 UTC 2022
+Architecture:    x86_64
+Platform:        Linux-5.4.0-122-generic-x86_64-with-glibc2.31
+
+Python exe:      /home/mdank/miniconda3/envs/compena/bin/python
+Python version:  3.10.4 (main, Mar 31 2022, 08:41:55) [GCC 7.5.0]
+Virtual env:     False
+Conda env:       True
+
+Briefcase:       0.3.8
+Target platform: linux
+Target format:   appimage
+
+Environment Variables:
+    COLORTERM=truecolor
+    COMP_WORDBREAKS= 	
+"'><=;|&(
+    CONDA_DEFAULT_ENV=compena
+    CONDA_EXE=/home/mdank/miniconda3/bin/conda
+    CONDA_PREFIX=/home/mdank/miniconda3/envs/compena
+    CONDA_PROMPT_MODIFIER=(compena) 
+    CONDA_PYTHON_EXE=/home/mdank/miniconda3/bin/python
+    CONDA_SHLVL=1
+    DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+    DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path
+    DESKTOP_AUTOSTART_ID=10f316ad2a193dfd65165812790649568100000022970008
+    DESKTOP_SESSION=cinnamon
+    DISPLAY=:0
+    GDK_BACKEND=x11
+    GDMSESSION=cinnamon
+    GDM_LANG=en_GB
+    GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+    GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+    GTK3_MODULES=xapp-gtk3-module
+    GTK_MODULES=gail:atk-bridge
+    GTK_OVERLAY_SCROLLING=1
+    HISTIGNORE=&:[ ]*:exit:ls:bg:fg:history:clear
+    HOME=/home/mdank
+    HOMEBREW_CELLAR=/home/linuxbrew/.linuxbrew/Cellar
+    HOMEBREW_PREFIX=/home/linuxbrew/.linuxbrew
+    HOMEBREW_REPOSITORY=/home/linuxbrew/.linuxbrew/Homebrew
+    INFOPATH=/home/linuxbrew/.linuxbrew/share/info:
+    LANG=en_GB.UTF-8
+    LANGUAGE=en_GB
+    LC_ADDRESS=pl_PL.UTF-8
+    LC_CTYPE=en_GB.UTF-8
+    LC_IDENTIFICATION=pl_PL.UTF-8
+    LC_MEASUREMENT=pl_PL.UTF-8
+    LC_MONETARY=pl_PL.UTF-8
+    LC_NAME=pl_PL.UTF-8
+    LC_NUMERIC=pl_PL.UTF-8
+    LC_PAPER=pl_PL.UTF-8
+    LC_TELEPHONE=pl_PL.UTF-8
+    LC_TIME=pl_PL.UTF-8
+    LESS=-R
+    LESSCLOSE=/usr/bin/lesspipe %s %s
+    LESSOPEN=| /usr/bin/lesspipe %s
+    LOGNAME=mdank
+    LSCOLORS=Gxfxcxdxdxegedabagacad
+    LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+    MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path
+    MANPATH=/home/mdank/.nvm/versions/node/v16.13.2/share/man:/home/linuxbrew/.linuxbrew/share/man:
+    NVM_BIN=/home/mdank/.nvm/versions/node/v16.13.2/bin
+    NVM_CD_FLAGS=
+    NVM_DIR=/home/mdank/.nvm
+    NVM_INC=/home/mdank/.nvm/versions/node/v16.13.2/include/node
+    OLDPWD=/home/mdank/repos/compena/BEEWARE
+    OSH=/home/mdank/.oh-my-bash
+    PAGER=less
+    PAPERSIZE=a4
+    PATH=/home/mdank/miniconda3/envs/compena/bin:/home/mdank/.nvm/versions/node/v16.13.2/bin:/home/mdank/miniconda3/condabin:/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/home/mdank/.local/bin:/home/mdank/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+    PWD=/home/mdank/repos/compena/BEEWARE/rotationcoverter
+    QT_ACCESSIBILITY=1
+    QT_QPA_PLATFORMTHEME=qt5ct
+    SESSION_MANAGER=local/mdank-thinkpad:@/tmp/.ICE-unix/2297,unix/mdank-thinkpad:/tmp/.ICE-unix/2297
+    SHELL=/bin/bash
+    SHLVL=1
+    SSH_AGENT_PID=2368
+    SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+    TERM=xterm-256color
+    USER=mdank
+    VIRTUAL_ENV_DISABLE_PROMPT=1
+    VTE_VERSION=6003
+    XAUTHORITY=/home/mdank/.Xauthority
+    XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+    XDG_CURRENT_DESKTOP=X-Cinnamon
+    XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/mdank/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+    XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/mdank
+    XDG_RUNTIME_DIR=/run/user/1000
+    XDG_SEAT=seat0
+    XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+    XDG_SESSION_CLASS=user
+    XDG_SESSION_DESKTOP=cinnamon
+    XDG_SESSION_ID=c2
+    XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+    XDG_SESSION_TYPE=x11
+    XDG_VTNR=7
+    _=/home/mdank/miniconda3/envs/compena/bin/briefcase
+    _CE_CONDA=
+    _CE_M=
+
+Briefcase Log:
+[22:24:43]                                                                                                                                                         subprocess.py:433
+           >>> Running Command:                                                                                                                                    subprocess.py:434
+           >>>     docker --version                                                                                                                                subprocess.py:435
+           >>> Command Output:                                                                                                                                     subprocess.py:453
+           >>>     Docker version 20.10.17, build 100c701                                                                                                          subprocess.py:455
+           >>> Return code: 0                                                                                                                                      subprocess.py:464
+                                                                                                                                                                   subprocess.py:433
+           >>> Running Command:                                                                                                                                    subprocess.py:434
+           >>>     docker info                                                                                                                                     subprocess.py:435
+           >>> Command Output:                                                                                                                                     subprocess.py:453
+           >>>     Client:                                                                                                                                         subprocess.py:455
+           >>>      Context:    default                                                                                                                            subprocess.py:455
+           >>>      Debug Mode: false                                                                                                                              subprocess.py:455
+           >>>      Plugins:                                                                                                                                       subprocess.py:455
+           >>>       app: Docker App (Docker Inc., v0.9.1-beta3)                                                                                                   subprocess.py:455
+           >>>       buildx: Docker Buildx (Docker Inc., v0.8.2-docker)                                                                                            subprocess.py:455
+           >>>       scan: Docker Scan (Docker Inc., v0.17.0)                                                                                                      subprocess.py:455
+           >>>                                                                                                                                                     subprocess.py:455
+           >>>     Server:                                                                                                                                         subprocess.py:455
+           >>>      Containers: 6                                                                                                                                  subprocess.py:455
+           >>>       Running: 0                                                                                                                                    subprocess.py:455
+           >>>       Paused: 0                                                                                                                                     subprocess.py:455
+           >>>       Stopped: 6                                                                                                                                    subprocess.py:455
+           >>>      Images: 1320                                                                                                                                   subprocess.py:455
+           >>>      Server Version: 20.10.17                                                                                                                       subprocess.py:455
+           >>>      Storage Driver: overlay2                                                                                                                       subprocess.py:455
+           >>>       Backing Filesystem: extfs                                                                                                                     subprocess.py:455
+           >>>       Supports d_type: true                                                                                                                         subprocess.py:455
+           >>>       Native Overlay Diff: true                                                                                                                     subprocess.py:455
+           >>>       userxattr: false                                                                                                                              subprocess.py:455
+           >>>      Logging Driver: json-file                                                                                                                      subprocess.py:455
+           >>>      Cgroup Driver: cgroupfs                                                                                                                        subprocess.py:455
+           >>>      Cgroup Version: 1                                                                                                                              subprocess.py:455
+           >>>      Plugins:                                                                                                                                       subprocess.py:455
+           >>>       Volume: local                                                                                                                                 subprocess.py:455
+           >>>       Network: bridge host ipvlan macvlan null overlay                                                                                              subprocess.py:455
+           >>>       Log: awslogs fluentd gcplogs gelf journald json-file local logentries splunk syslog                                                           subprocess.py:455
+           >>>      Swarm: active                                                                                                                                  subprocess.py:455
+           >>>       NodeID: cnwgec27hjkd57i06tlwup6c4                                                                                                             subprocess.py:455
+           >>>       Is Manager: true                                                                                                                              subprocess.py:455
+           >>>       ClusterID: yhsi9j62l69ww2zri9ln13kcz                                                                                                          subprocess.py:455
+           >>>       Managers: 1                                                                                                                                   subprocess.py:455
+           >>>       Nodes: 1                                                                                                                                      subprocess.py:455
+           >>>       Default Address Pool: 10.0.0.0/8                                                                                                              subprocess.py:455
+           >>>       SubnetSize: 24                                                                                                                                subprocess.py:455
+           >>>       Data Path Port: 4789                                                                                                                          subprocess.py:455
+           >>>       Orchestration:                                                                                                                                subprocess.py:455
+           >>>        Task History Retention Limit: 5                                                                                                              subprocess.py:455
+           >>>       Raft:                                                                                                                                         subprocess.py:455
+           >>>        Snapshot Interval: 10000                                                                                                                     subprocess.py:455
+           >>>        Number of Old Snapshots to Retain: 0                                                                                                         subprocess.py:455
+           >>>        Heartbeat Tick: 1                                                                                                                            subprocess.py:455
+           >>>        Election Tick: 10                                                                                                                            subprocess.py:455
+           >>>       Dispatcher:                                                                                                                                   subprocess.py:455
+           >>>        Heartbeat Period: 5 seconds                                                                                                                  subprocess.py:455
+           >>>       CA Configuration:                                                                                                                             subprocess.py:455
+           >>>        Expiry Duration: 3 months                                                                                                                    subprocess.py:455
+           >>>        Force Rotate: 0                                                                                                                              subprocess.py:455
+           >>>       Autolock Managers: false                                                                                                                      subprocess.py:455
+           >>>       Root Rotation In Progress: false                                                                                                              subprocess.py:455
+           >>>       Node Address: 192.168.0.15                                                                                                                    subprocess.py:455
+           >>>       Manager Addresses:                                                                                                                            subprocess.py:455
+           >>>        192.168.0.15:2377                                                                                                                            subprocess.py:455
+           >>>      Runtimes: runc io.containerd.runc.v2 io.containerd.runtime.v1.linux                                                                            subprocess.py:455
+           >>>      Default Runtime: runc                                                                                                                          subprocess.py:455
+           >>>      Init Binary: docker-init                                                                                                                       subprocess.py:455
+           >>>      containerd version: 10c12954828e7c7c9b6e0ea9b0c02b01407d3ae1                                                                                   subprocess.py:455
+           >>>      runc version: v1.1.2-0-ga916309                                                                                                                subprocess.py:455
+           >>>      init version: de40ad0                                                                                                                          subprocess.py:455
+           >>>      Security Options:                                                                                                                              subprocess.py:455
+           >>>       apparmor                                                                                                                                      subprocess.py:455
+           >>>       seccomp                                                                                                                                       subprocess.py:455
+           >>>        Profile: default                                                                                                                             subprocess.py:455
+           >>>      Kernel Version: 5.4.0-122-generic                                                                                                              subprocess.py:455
+           >>>      Operating System: Linux Mint 20.3                                                                                                              subprocess.py:455
+           >>>      OSType: linux                                                                                                                                  subprocess.py:455
+           >>>      Architecture: x86_64                                                                                                                           subprocess.py:455
+           >>>      CPUs: 8                                                                                                                                        subprocess.py:455
+           >>>      Total Memory: 15.4GiB                                                                                                                          subprocess.py:455
+           >>>      Name: mdank-thinkpad                                                                                                                           subprocess.py:455
+           >>>      ID: BJEZ:CYZD:WCIB:E46B:D7TJ:NYTL:3DSK:GEDO:GSWX:C7VW:XAS3:YPUC                                                                                subprocess.py:455
+           >>>      Docker Root Dir: /var/lib/docker                                                                                                               subprocess.py:455
+           >>>      Debug Mode: false                                                                                                                              subprocess.py:455
+           >>>      Username: michcio1234                                                                                                                          subprocess.py:455
+           >>>      Registry: https://index.docker.io/v1/                                                                                                          subprocess.py:455
+           >>>      Labels:                                                                                                                                        subprocess.py:455
+           >>>      Experimental: false                                                                                                                            subprocess.py:455
+           >>>      Insecure Registries:                                                                                                                           subprocess.py:455
+           >>>       127.0.0.0/8                                                                                                                                   subprocess.py:455
+           >>>      Live Restore Enabled: false                                                                                                                    subprocess.py:455
+           >>>                                                                                                                                                     subprocess.py:455
+           >>>     WARNING: No swap limit support                                                                                                                  subprocess.py:455
+           >>> Return code: 0                                                                                                                                      subprocess.py:464
+                                                                                                                                                                     appimage.py:218
+           [rotationcoverter] Starting app...                                                                                                                        appimage.py:218
+                                                                                                                                                                   subprocess.py:433
+           >>> Running Command:                                                                                                                                    subprocess.py:434
+           >>>     /home/mdank/repos/compena/BEEWARE/rotationcoverter/linux/Przeliczanie_rolek-0.0.1-x86_64.AppImage                                               subprocess.py:435
+[22:24:44] >>> Return code: 1                                                                                                                                      subprocess.py:464
+                                                                                                                                                                      __main__.py:21
+           Unable to start app rotationcoverter.                                                                                                                      __main__.py:22
+
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ /home/mdank/miniconda3/envs/compena/lib/python3.10/site-packages/briefcase/platforms/linux/appimage.py:220 in run_app                                                            │
+│                                                                                                                                                                                  │
+│   217 │   │   """                                                                                                                                                                │
+│   218 │   │   self.logger.info("Starting app...", prefix=app.app_name)                                                                                                           │
+│   219 │   │   try:                                                                                                                                                               │
+│ ❱ 220 │   │   │   self.subprocess.run(                                                                                                                                           │
+│   221 │   │   │   │   [                                                                                                                                                          │
+│   222 │   │   │   │   │   os.fsdecode(self.binary_path(app)),                                                                                                                    │
+│   223 │   │   │   │   ],                                                                                                                                                         │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────── locals ────────────────────────────────────────────╮                                                                               │
+│ │    app = <com.mdank.rotationcoverter v0.0.1 AppConfig>                                         │                                                                               │
+│ │ kwargs = {}                                                                                    │                                                                               │
+│ │   self = <briefcase.platforms.linux.appimage.LinuxAppImageRunCommand object at 0x7f3eeb0ed930> │                                                                               │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                               │
+│                                                                                                                                                                                  │
+│ /home/mdank/miniconda3/envs/compena/lib/python3.10/site-packages/briefcase/integrations/subprocess.py:223 in run                                                                 │
+│                                                                                                                                                                                  │
+│   220 │   │   self._log_environment(kwargs.get("env"))                                                                                                                           │
+│   221 │   │                                                                                                                                                                      │
+│   222 │   │   try:                                                                                                                                                               │
+│ ❱ 223 │   │   │   command_result = self._subprocess.run(                                                                                                                         │
+│   224 │   │   │   │   [str(arg) for arg in args], **self.final_kwargs(**kwargs)                                                                                                  │
+│   225 │   │   │   )                                                                                                                                                              │
+│   226 │   │   except subprocess.CalledProcessError as e:                                                                                                                         │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────────── locals ────────────────────────────────────────────────────╮                                                               │
+│ │                 args = ['/home/mdank/repos/compena/BEEWARE/rotationcoverter/linux/Przeliczanie_rolek-0.0.'+17] │                                                               │
+│ │ is_output_redirected = None                                                                                    │                                                               │
+│ │               kwargs = {'check': True}                                                                         │                                                               │
+│ │                 self = <briefcase.integrations.subprocess.Subprocess object at 0x7f3eeaf3f010>                 │                                                               │
+│ │        stream_output = False                                                                                   │                                                               │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                               │
+│                                                                                                                                                                                  │
+│ /home/mdank/miniconda3/envs/compena/lib/python3.10/subprocess.py:524 in run                                                                                                      │
+│                                                                                                                                                                                  │
+│    521 │   │   │   raise                                                                                                                                                         │
+│    522 │   │   retcode = process.poll()                                                                                                                                          │
+│    523 │   │   if check and retcode:                                                                                                                                             │
+│ ❱  524 │   │   │   raise CalledProcessError(retcode, process.args,                                                                                                               │
+│    525 │   │   │   │   │   │   │   │   │    output=stdout, stderr=stderr)                                                                                                        │
+│    526 │   return CompletedProcess(process.args, retcode, stdout, stderr)                                                                                                        │
+│    527                                                                                                                                                                           │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────────────── locals ───────────────────────────────────────────────────╮                                                                  │
+│ │ capture_output = False                                                                                      │                                                                  │
+│ │          check = True                                                                                       │                                                                  │
+│ │          input = None                                                                                       │                                                                  │
+│ │         kwargs = {'text': True, 'encoding': 'UTF-8'}                                                        │                                                                  │
+│ │      popenargs = (['/home/mdank/repos/compena/BEEWARE/rotationcoverter/linux/Przeliczanie_rolek-0.0.'+17],) │                                                                  │
+│ │        process = <Popen: returncode: 1 args: ['/home/mdank/repos/compena/BEEWARE/rotationcove...>           │                                                                  │
+│ │        retcode = 1                                                                                          │                                                                  │
+│ │         stderr = None                                                                                       │                                                                  │
+│ │         stdout = None                                                                                       │                                                                  │
+│ │        timeout = None                                                                                       │                                                                  │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                  │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+CalledProcessError: Command '['/home/mdank/repos/compena/BEEWARE/rotationcoverter/linux/Przeliczanie_rolek-0.0.1-x86_64.AppImage']' returned non-zero exit status 1.
+
+The above exception was the direct cause of the following exception:
+
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ /home/mdank/miniconda3/envs/compena/lib/python3.10/site-packages/briefcase/__main__.py:14 in main                                                                                │
+│                                                                                                                                                                                  │
+│   11 │   try:                                                                                                                                                                    │
+│   12 │   │   command, options = parse_cmdline(sys.argv[1:])                                                                                                                      │
+│   13 │   │   command.parse_config("pyproject.toml")                                                                                                                              │
+│ ❱ 14 │   │   command(**options)                                                                                                                                                  │
+│   15 │   │   result = 0                                                                                                                                                          │
+│   16 │   except HelpText as e:                                                                                                                                                   │
+│   17 │   │   log.info()                                                                                                                                                          │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────── locals ─────────────────────────────────────────────╮                                                                              │
+│ │ command = <briefcase.platforms.linux.appimage.LinuxAppImageRunCommand object at 0x7f3eeb0ed930> │                                                                              │
+│ │       e = BriefcaseCommandError('Unable to start app rotationcoverter.')                        │                                                                              │
+│ │     log = <briefcase.console.Log object at 0x7f3eeccec430>                                      │                                                                              │
+│ │ options = {'appname': None, 'update': False}                                                    │                                                                              │
+│ │  result = 200                                                                                   │                                                                              │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                              │
+│                                                                                                                                                                                  │
+│ /home/mdank/miniconda3/envs/compena/lib/python3.10/site-packages/briefcase/commands/run.py:66 in __call__                                                                        │
+│                                                                                                                                                                                  │
+│   63 │   │   else:                                                                                                                                                               │
+│   64 │   │   │   state = None                                                                                                                                                    │
+│   65 │   │                                                                                                                                                                       │
+│ ❱ 66 │   │   state = self.run_app(app, **full_options(state, options))                                                                                                           │
+│   67 │   │                                                                                                                                                                       │
+│   68 │   │   return state                                                                                                                                                        │
+│   69                                                                                                                                                                             │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────────────────── locals ────────────────────────────────────────────────────────────╮                                               │
+│ │           app = <com.mdank.rotationcoverter v0.0.1 AppConfig>                                                                  │                                               │
+│ │       appname = None                                                                                                           │                                               │
+│ │   binary_file = PosixPath('/home/mdank/repos/compena/BEEWARE/rotationcoverter/linux/Przeliczanie_rolek-0.0.1-x86_64.AppImage') │                                               │
+│ │       options = {}                                                                                                             │                                               │
+│ │          self = <briefcase.platforms.linux.appimage.LinuxAppImageRunCommand object at 0x7f3eeb0ed930>                          │                                               │
+│ │         state = None                                                                                                           │                                               │
+│ │ template_file = PosixPath('/home/mdank/repos/compena/BEEWARE/rotationcoverter/linux/appimage/Przeliczanie rolek')              │                                               │
+│ │        update = False                                                                                                          │                                               │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                               │
+│                                                                                                                                                                                  │
+│ /home/mdank/miniconda3/envs/compena/lib/python3.10/site-packages/briefcase/platforms/linux/appimage.py:227 in run_app                                                            │
+│                                                                                                                                                                                  │
+│   224 │   │   │   │   check=True,                                                                                                                                                │
+│   225 │   │   │   )                                                                                                                                                              │
+│   226 │   │   except subprocess.CalledProcessError as e:                                                                                                                         │
+│ ❱ 227 │   │   │   raise BriefcaseCommandError(f"Unable to start app {app.app_name}.") from e                                                                                     │
+│   228                                                                                                                                                                            │
+│   229                                                                                                                                                                            │
+│   230 class LinuxAppImagePackageCommand(LinuxAppImageMixin, PackageCommand):                                                                                                     │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────── locals ────────────────────────────────────────────╮                                                                               │
+│ │    app = <com.mdank.rotationcoverter v0.0.1 AppConfig>                                         │                                                                               │
+│ │ kwargs = {}                                                                                    │                                                                               │
+│ │   self = <briefcase.platforms.linux.appimage.LinuxAppImageRunCommand object at 0x7f3eeb0ed930> │                                                                               │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                               │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+BriefcaseCommandError: Unable to start app rotationcoverter.

@@ -1,0 +1,251 @@
+Date/Time:       2022-07-22 20:11:24 
+Command line:    /home/mdank/miniconda3/envs/compena/bin/briefcase run android
+
+OS Release:      Linux 5.4.0-122-generic
+OS Version:      #138-Ubuntu SMP Wed Jun 22 15:00:31 UTC 2022
+Architecture:    x86_64
+Platform:        Linux-5.4.0-122-generic-x86_64-with-glibc2.31
+
+Python exe:      /home/mdank/miniconda3/envs/compena/bin/python
+Python version:  3.10.4 (main, Mar 31 2022, 08:41:55) [GCC 7.5.0]
+Virtual env:     False
+Conda env:       True
+
+Briefcase:       0.3.8
+Target platform: android
+Target format:   gradle
+
+Environment Variables:
+    COLORTERM=truecolor
+    COMP_WORDBREAKS= 	
+"'><=;|&(
+    CONDA_DEFAULT_ENV=compena
+    CONDA_EXE=/home/mdank/miniconda3/bin/conda
+    CONDA_PREFIX=/home/mdank/miniconda3/envs/compena
+    CONDA_PROMPT_MODIFIER=(compena) 
+    CONDA_PYTHON_EXE=/home/mdank/miniconda3/bin/python
+    CONDA_SHLVL=1
+    DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+    DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path
+    DESKTOP_AUTOSTART_ID=10f316ad2a193dfd65165812790649568100000022970008
+    DESKTOP_SESSION=cinnamon
+    DISPLAY=:0
+    GDK_BACKEND=x11
+    GDMSESSION=cinnamon
+    GDM_LANG=en_GB
+    GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+    GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+    GTK3_MODULES=xapp-gtk3-module
+    GTK_MODULES=gail:atk-bridge
+    GTK_OVERLAY_SCROLLING=1
+    HISTIGNORE=&:[ ]*:exit:ls:bg:fg:history:clear
+    HOME=/home/mdank
+    HOMEBREW_CELLAR=/home/linuxbrew/.linuxbrew/Cellar
+    HOMEBREW_PREFIX=/home/linuxbrew/.linuxbrew
+    HOMEBREW_REPOSITORY=/home/linuxbrew/.linuxbrew/Homebrew
+    INFOPATH=/home/linuxbrew/.linuxbrew/share/info:
+    LANG=en_GB.UTF-8
+    LANGUAGE=en_GB
+    LC_ADDRESS=pl_PL.UTF-8
+    LC_CTYPE=en_GB.UTF-8
+    LC_IDENTIFICATION=pl_PL.UTF-8
+    LC_MEASUREMENT=pl_PL.UTF-8
+    LC_MONETARY=pl_PL.UTF-8
+    LC_NAME=pl_PL.UTF-8
+    LC_NUMERIC=pl_PL.UTF-8
+    LC_PAPER=pl_PL.UTF-8
+    LC_TELEPHONE=pl_PL.UTF-8
+    LC_TIME=pl_PL.UTF-8
+    LESS=-R
+    LESSCLOSE=/usr/bin/lesspipe %s %s
+    LESSOPEN=| /usr/bin/lesspipe %s
+    LOGNAME=mdank
+    LSCOLORS=Gxfxcxdxdxegedabagacad
+    LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+    MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path
+    MANPATH=/home/mdank/.nvm/versions/node/v16.13.2/share/man:/home/linuxbrew/.linuxbrew/share/man:
+    NVM_BIN=/home/mdank/.nvm/versions/node/v16.13.2/bin
+    NVM_CD_FLAGS=
+    NVM_DIR=/home/mdank/.nvm
+    NVM_INC=/home/mdank/.nvm/versions/node/v16.13.2/include/node
+    OLDPWD=/home/mdank/repos/compena/BEEWARE/rotationcoverter/linux
+    OSH=/home/mdank/.oh-my-bash
+    PAGER=less
+    PAPERSIZE=a4
+    PATH=/home/mdank/miniconda3/envs/compena/bin:/home/mdank/.nvm/versions/node/v16.13.2/bin:/home/mdank/miniconda3/condabin:/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/home/mdank/.local/bin:/home/mdank/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+    PWD=/home/mdank/repos/compena/BEEWARE/rotationcoverter
+    QT_ACCESSIBILITY=1
+    QT_QPA_PLATFORMTHEME=qt5ct
+    SESSION_MANAGER=local/mdank-thinkpad:@/tmp/.ICE-unix/2297,unix/mdank-thinkpad:/tmp/.ICE-unix/2297
+    SHELL=/bin/bash
+    SHLVL=1
+    SSH_AGENT_PID=2368
+    SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+    TERM=xterm-256color
+    USER=mdank
+    VIRTUAL_ENV_DISABLE_PROMPT=1
+    VTE_VERSION=6003
+    XAUTHORITY=/home/mdank/.Xauthority
+    XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+    XDG_CURRENT_DESKTOP=X-Cinnamon
+    XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/mdank/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+    XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/mdank
+    XDG_RUNTIME_DIR=/run/user/1000
+    XDG_SEAT=seat0
+    XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+    XDG_SESSION_CLASS=user
+    XDG_SESSION_DESKTOP=cinnamon
+    XDG_SESSION_ID=c2
+    XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+    XDG_SESSION_TYPE=x11
+    XDG_VTNR=7
+    _=/home/mdank/miniconda3/envs/compena/bin/briefcase
+    _CE_CONDA=
+    _CE_M=
+
+Briefcase Log:
+[20:10:56]                                                                                                                                                               java.py:211
+           [java] The Java JDK was not found; downloading and installing...                                                                                              java.py:211
+[20:10:57] Downloading OpenJDK8U-jdk_x64_linux_hotspot_8u242b08.tar.gz...                                                                                                base.py:501
+[20:11:09] Installing AdoptOpenJDK... done                                                                                                                               java.py:244
+                                                                                                                                                                  android_sdk.py:225
+           [android_sdk] The Android SDK was not found; downloading and installing...                                                                             android_sdk.py:225
+           Downloading commandlinetools-linux-8092744_latest.zip...                                                                                                      base.py:501
+[20:11:17] Installing Android SDK Command-Line Tools... done                                                                                                      android_sdk.py:275
+                                                                                                                                                                  android_sdk.py:370
+           The Android tools provided by Google have license terms that you must accept                                                                           android_sdk.py:370
+           before you may use those tools.                                                                                                                        android_sdk.py:370
+                                                                                                                                                                   subprocess.py:433
+           >>> Running Command:                                                                                                                                    subprocess.py:434
+           >>>     /home/mdank/.briefcase/tools/android_sdk/cmdline-tools/latest/bin/sdkmanager --licenses                                                         subprocess.py:435
+           >>> Environment Overrides:                                                                                                                              subprocess.py:446
+           >>>     ANDROID_SDK_ROOT=/home/mdank/.briefcase/tools/android_sdk                                                                                       subprocess.py:448
+           >>>     JAVA_HOME=/home/mdank/.briefcase/tools/java                                                                                                     subprocess.py:448
+[20:11:24] >>> Return code: 0                                                                                                                                      subprocess.py:464
+                                                                                                                                                                      __main__.py:21
+           You did not accept the Android SDK licenses. Please re-run the briefcase command                                                                           __main__.py:22
+           and accept the Android SDK license when prompted. You may need an Internet                                                                                 __main__.py:22
+           connection.                                                                                                                                                __main__.py:22
+
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ /home/mdank/miniconda3/envs/compena/lib/python3.10/site-packages/briefcase/__main__.py:14 in main                                                                                │
+│                                                                                                                                                                                  │
+│   11 │   try:                                                                                                                                                                    │
+│   12 │   │   command, options = parse_cmdline(sys.argv[1:])                                                                                                                      │
+│   13 │   │   command.parse_config("pyproject.toml")                                                                                                                              │
+│ ❱ 14 │   │   command(**options)                                                                                                                                                  │
+│   15 │   │   result = 0                                                                                                                                                          │
+│   16 │   except HelpText as e:                                                                                                                                                   │
+│   17 │   │   log.info()                                                                                                                                                          │
+│                                                                                                                                                                                  │
+│ ╭─────────────────────────────────────────────────────────────────────────────────── locals ───────────────────────────────────────────────────────────────────────────────────╮ │
+│ │ command = <briefcase.platforms.android.gradle.GradleRunCommand object at 0x7fcf5cc49930>                                                                                     │ │
+│ │       e = BriefcaseCommandError('You did not accept the Android SDK licenses. Please re-run the briefcase command\nand accept the Android SDK license when prompted. You may │ │
+│ │           need an Internet\nconnection.\n')                                                                                                                                  │ │
+│ │     log = <briefcase.console.Log object at 0x7fcf5e844430>                                                                                                                   │ │
+│ │ options = {'appname': None, 'update': False, 'device_or_avd': None}                                                                                                          │ │
+│ │  result = 200                                                                                                                                                                │ │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯ │
+│                                                                                                                                                                                  │
+│ /home/mdank/miniconda3/envs/compena/lib/python3.10/site-packages/briefcase/commands/run.py:34 in __call__                                                                        │
+│                                                                                                                                                                                  │
+│   31 │   │   self, appname: Optional[str] = None, update: Optional[bool] = False, **options                                                                                      │
+│   32 │   ):                                                                                                                                                                      │
+│   33 │   │   # Confirm all required tools are available                                                                                                                          │
+│ ❱ 34 │   │   self.verify_tools()                                                                                                                                                 │
+│   35 │   │                                                                                                                                                                       │
+│   36 │   │   # Which app should we run? If there's only one defined                                                                                                              │
+│   37 │   │   # in pyproject.toml, then we can use it as a default;                                                                                                               │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────── locals ─────────────────────────────────────────╮                                                                                     │
+│ │ appname = None                                                                           │                                                                                     │
+│ │ options = {'device_or_avd': None}                                                        │                                                                                     │
+│ │    self = <briefcase.platforms.android.gradle.GradleRunCommand object at 0x7fcf5cc49930> │                                                                                     │
+│ │  update = False                                                                          │                                                                                     │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────╯                                                                                     │
+│                                                                                                                                                                                  │
+│ /home/mdank/miniconda3/envs/compena/lib/python3.10/site-packages/briefcase/platforms/android/gradle.py:154 in verify_tools                                                       │
+│                                                                                                                                                                                  │
+│   151 │   description = "Run an Android debug APK on a device (physical or virtual)."                                                                                            │
+│   152 │                                                                                                                                                                          │
+│   153 │   def verify_tools(self):                                                                                                                                                │
+│ ❱ 154 │   │   super().verify_tools()                                                                                                                                             │
+│   155 │   │   self.android_sdk.verify_emulator()                                                                                                                                 │
+│   156 │                                                                                                                                                                          │
+│   157 │   def add_options(self, parser):                                                                                                                                         │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────── locals ──────────────────────────────────────────╮                                                                                   │
+│ │ __class__ = <class 'briefcase.platforms.android.gradle.GradleRunCommand'>                  │                                                                                   │
+│ │      self = <briefcase.platforms.android.gradle.GradleRunCommand object at 0x7fcf5cc49930> │                                                                                   │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────╯                                                                                   │
+│                                                                                                                                                                                  │
+│ /home/mdank/miniconda3/envs/compena/lib/python3.10/site-packages/briefcase/platforms/android/gradle.py:91 in verify_tools                                                        │
+│                                                                                                                                                                                  │
+│    88 │   │   """Verify that the Android APK tools in `briefcase` will operate on                                                                                                │
+│    89 │   │   this system, downloading tools as needed."""                                                                                                                       │
+│    90 │   │   super().verify_tools()                                                                                                                                             │
+│ ❱  91 │   │   self.android_sdk = AndroidSDK.verify(self)                                                                                                                         │
+│    92                                                                                                                                                                            │
+│    93                                                                                                                                                                            │
+│    94 class GradleCreateCommand(GradleMixin, CreateCommand):                                                                                                                     │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────── locals ──────────────────────────────────────────╮                                                                                   │
+│ │ __class__ = <class 'briefcase.platforms.android.gradle.GradleMixin'>                       │                                                                                   │
+│ │      self = <briefcase.platforms.android.gradle.GradleRunCommand object at 0x7fcf5cc49930> │                                                                                   │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────╯                                                                                   │
+│                                                                                                                                                                                  │
+│ /home/mdank/miniconda3/envs/compena/lib/python3.10/site-packages/briefcase/integrations/android_sdk.py:229 in verify                                                             │
+│                                                                                                                                                                                  │
+│    226 │   │   │   │   "The Android SDK was not found; downloading and installing...",                                                                                           │
+│    227 │   │   │   │   prefix=cls.name,                                                                                                                                          │
+│    228 │   │   │   )                                                                                                                                                             │
+│ ❱  229 │   │   │   sdk.install()                                                                                                                                                 │
+│    230 │   │   │   return sdk                                                                                                                                                    │
+│    231 │   │   else:                                                                                                                                                             │
+│    232 │   │   │   raise MissingToolError("Android SDK")                                                                                                                         │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────── locals ────────────────────────────────────────────╮                                                                               │
+│ │           cls = <class 'briefcase.integrations.android_sdk.AndroidSDK'>                        │                                                                               │
+│ │       command = <briefcase.platforms.android.gradle.GradleRunCommand object at 0x7fcf5cc49930> │                                                                               │
+│ │       install = True                                                                           │                                                                               │
+│ │           jdk = <briefcase.integrations.java.JDK object at 0x7fcf5cafa3e0>                     │                                                                               │
+│ │           sdk = <briefcase.integrations.android_sdk.AndroidSDK object at 0x7fcf5cadadd0>       │                                                                               │
+│ │      sdk_root = None                                                                           │                                                                               │
+│ │ sdk_root_path = PosixPath('/home/mdank/.briefcase/tools/android_sdk')                          │                                                                               │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                               │
+│                                                                                                                                                                                  │
+│ /home/mdank/miniconda3/envs/compena/lib/python3.10/site-packages/briefcase/integrations/android_sdk.py:317 in install                                                            │
+│                                                                                                                                                                                  │
+│    314 │   │   │   │   │   │   binpath.chmod(0o755)                                                                                                                              │
+│    315 │   │                                                                                                                                                                     │
+│    316 │   │   # Licences must be accepted.                                                                                                                                      │
+│ ❱  317 │   │   self.verify_license()                                                                                                                                             │
+│    318 │                                                                                                                                                                         │
+│    319 │   def upgrade(self):                                                                                                                                                    │
+│    320 │   │   """Upgrade the Android SDK."""                                                                                                                                    │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────────────────── locals ──────────────────────────────────────────────────────╮                                                           │
+│ │                binpath = PosixPath('/home/mdank/.briefcase/tools/android_sdk/cmdline-tools/latest/bin/sdkmanager') │                                                           │
+│ │ cmdline_tools_zip_path = PosixPath('/home/mdank/.briefcase/tools/commandlinetools-linux-8092744_latest.zip')       │                                                           │
+│ │                   self = <briefcase.integrations.android_sdk.AndroidSDK object at 0x7fcf5cadadd0>                  │                                                           │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                           │
+│                                                                                                                                                                                  │
+│ /home/mdank/miniconda3/envs/compena/lib/python3.10/site-packages/briefcase/integrations/android_sdk.py:395 in verify_license                                                     │
+│                                                                                                                                                                                  │
+│    392 │   │   │   ) from e                                                                                                                                                      │
+│    393 │   │                                                                                                                                                                     │
+│    394 │   │   if not license_path.exists():                                                                                                                                     │
+│ ❱  395 │   │   │   raise BriefcaseCommandError(                                                                                                                                  │
+│    396 │   │   │   │   """\                                                                                                                                                      │
+│    397 You did not accept the Android SDK licenses. Please re-run the briefcase command                                                                                          │
+│    398 and accept the Android SDK license when prompted. You may need an Internet                                                                                                │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────── locals ──────────────────────────────────────────────╮                                                                            │
+│ │ license_path = PosixPath('/home/mdank/.briefcase/tools/android_sdk/licenses/android-sdk-license') │                                                                            │
+│ │         self = <briefcase.integrations.android_sdk.AndroidSDK object at 0x7fcf5cadadd0>           │                                                                            │
+│ ╰───────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                            │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+BriefcaseCommandError: You did not accept the Android SDK licenses. Please re-run the briefcase command
+and accept the Android SDK license when prompted. You may need an Internet
+connection.
+

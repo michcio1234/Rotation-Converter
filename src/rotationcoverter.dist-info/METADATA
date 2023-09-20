@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.8
+Name: rotationcoverter
+Formal-Name: Przeliczanie rolek
+App-ID: com.mdank.rotationcoverter
+Version: 0.0.1
+Home-page: https://mdank.com/rotationcoverter
+Author: Michał Dankiewicz
+Author-email: dankiewicz.michal@gmail.com
+Summary: Przeliczanie rotacji maszyn do kręcenia stretchu

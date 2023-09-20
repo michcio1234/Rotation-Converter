@@ -1,0 +1,52 @@
+[tool.briefcase]
+project_name = "Przeliczanie rolek"
+bundle = "com.mdank"
+version = "0.0.1"
+url = "https://mdank.com/rotationcoverter"
+license = "BSD license"
+author = 'Michał Dankiewicz'
+author_email = "dankiewicz.michal@gmail.com"
+
+[tool.briefcase.app.rotationcoverter]
+formal_name = "Przeliczanie rolek"
+description = "Przeliczanie rotacji maszyn do kręcenia stretchu"
+icon = "src/rotationcoverter/resources/rotationcoverter"
+sources = ['src/rotationcoverter']
+requires = [
+]
+
+
+[tool.briefcase.app.rotationcoverter.macOS]
+requires = [
+    'toga-cocoa>=0.3.0.dev34',
+    'std-nslog~=1.0.0'
+]
+
+[tool.briefcase.app.rotationcoverter.linux]
+requires = [
+    'toga-gtk>=0.3.0.dev34',
+]
+system_requires = [
+    'libgirepository1.0-dev',
+    'libcairo2-dev',
+    'libpango1.0-dev',
+    'libwebkitgtk-3.0-0',
+    'gir1.2-webkit-3.0',
+]
+
+[tool.briefcase.app.rotationcoverter.windows]
+requires = [
+    'toga-winforms>=0.3.0.dev34',
+]
+
+# Mobile deployments
+[tool.briefcase.app.rotationcoverter.iOS]
+requires = [
+    'toga-iOS>=0.3.0.dev34',
+    'std-nslog~=1.0.0'
+]
+
+[tool.briefcase.app.rotationcoverter.android]
+requires = [
+    'toga-android>=0.3.0.dev34'
+]
